@@ -205,4 +205,4 @@ This repository serves as the official landing page for Nebula's Descent. The so
 **Get the most recent version of Nebula's Descent today!**
 
 ---
-**Last updated:** 2026-11-12 20:34:29 UTC
+**Last updated:** 2026-11-13 01:35:34 UTC
